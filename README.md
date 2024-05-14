@@ -1,0 +1,1 @@
+### Just a silly little thing I did that's a simple backtracking algorithm. It gives you all different type combinations that take the least amount of attacking types to hit every single existing type combination in Pokemon with either only super effective damage, or not resisted damage.
